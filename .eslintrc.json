@@ -3,9 +3,9 @@
   "env": {
     "browser": true
   },
-  "parseOptions": {
+  "parserOptions": {
     "ecmaVersion": "latest",
-    "sourceTYpe": "module"
+    "sourceType": "module"
   },
   "extends": [
     "eslint:recommended",
